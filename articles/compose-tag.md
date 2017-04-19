@@ -1,3 +1,8 @@
+---
+title: Using the Compose Tag
+excerpt: A couple of real-world examples using the <compose> tag.
+---
+
 # Using the &lt;compose&gt; Tag
 
 The `<compose>` tag let's you dynamically insert custom components. We have seen some questions arise as to when exactly to use the `<compose>` tag. Most of the time you know what component you want to use, so you don't need to set it dynamically. This article will show two real-world examples of where we are using it in our code.
