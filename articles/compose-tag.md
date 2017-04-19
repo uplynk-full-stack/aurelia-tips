@@ -1,6 +1,6 @@
 ---
 title: Using the Compose Tag
-excerpt: A couple of real-world examples using the <compose> tag.
+description: A couple of real-world examples using the <compose> tag.
 ---
 
 # Using the &lt;compose&gt; Tag
